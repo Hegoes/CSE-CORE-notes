@@ -5,8 +5,7 @@
 - Discrete Mathematics
 - Digital Logic
 - Computer Organization and architecture
-- Data Structures
-- Algorithms
+- Data Structures and Algorithms
 - Theory of Computation
 - Compiler Design
 - Operating System
